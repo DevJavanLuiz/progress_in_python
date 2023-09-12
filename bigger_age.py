@@ -1,7 +1,7 @@
 name = 'Javan'
 last_name = 'Luiz'
 heigth_in_meters = 1.80
-age = 20
+age = 2023 - 2003
 bigger_of_age = age >= 18
 
 print('Name:', name)
